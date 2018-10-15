@@ -1,6 +1,5 @@
 # Tensorflow-for-Deep-Learning
-# TensorFlow for Deep Learning 
-### CNN, RNNs and other neural networks for unsupervised and supervised deep learning and everything implemnted using TensorFlow.  
+### CNNs, RNNs and other neural networks for unsupervised and supervised deep learning  
       
    > Objectives      
       
