@@ -3,7 +3,7 @@
       
    > Objectives      
       
-          Build and execute machine learning models on TensorFlow
+          Build and execute machine learning models on TensorFlow.
           Implement Deep Neural Networks, Convolutional Neural Networks, and Recurrent Neural Networks
           Understand and implement unsupervised learning models such as Clustering and Autoencoders
 
