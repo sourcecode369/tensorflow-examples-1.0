@@ -1,6 +1,6 @@
-> # TensorFlow for Deep Learning
+ ## TensorFlow for Deep Learning
 > ### CNNs, RNNs and other neural networks for unsupervised and supervised deep learning  
-      
+![Tensorflow](https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png)
    > Objectives      
       
           Build and execute machine learning models on TensorFlow.
